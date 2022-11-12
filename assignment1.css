@@ -1,0 +1,80 @@
+body{
+    background-image: url("backie.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, 'Helvetica', sans-serif;
+}
+.ordered{
+    font-size: 40px;
+    color:gold;
+}
+#ordered{
+    font-size: 50px;
+    color: cornflowerblue;
+}
+.likes{
+    font-size: 10px;
+    color: chocolate;
+}  
+#likes{
+    font-size: 45px;
+    color: navy;
+} 
+.unordered1{
+    font-size: 100px;
+    color:bisque;
+    list-style-type: square;
+}
+#unordered1{
+    font-size: 200px;
+    color:moccasin;
+    list-style-type: disc;
+}
+.list1{
+    font-size: 250px;
+    color: darkgray;
+    list-style-type: georgian;
+}
+#list1{
+    font-size: 30px;
+    color: crimson;
+    list-style-type: square;
+}
+.dessert{
+    font-size: 17px;
+    color:honeydew;
+    list-style-type: square;
+}
+#dessert{
+    font-size: 30px;
+    color: midnightblue;
+    list-style-type:circle;
+}
+.dislikes{
+    font-size: 90px;
+    color: aqua;
+}
+#dislikes{
+    font-size: 40px;
+    color:darkorchid;
+}
+.unordered2{
+    font-size: 45px;
+    color: brown;
+    list-style-type:decimal-leading-zero;
+}
+#unordered2{
+    font-size: 12px;
+    color: thistle;
+    list-style-type:lower-greek;
+}
+.list2{
+    font-size: 76px;
+    color: blanchedalmond;
+    list-style-type: lower-latin;
+}
+#list2{
+    font-size: 30px;
+    color:darkcyan;
+    list-style-type:circle;
+}
